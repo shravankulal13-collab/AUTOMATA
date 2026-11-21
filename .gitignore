@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Microsoft Office temporary lock files
+~$*
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
